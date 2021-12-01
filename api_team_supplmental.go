@@ -1,3 +1,5 @@
+package client
+
 type ApiCreateOrganizationTeamRequest struct {
 	ctx        _context.Context
 	ApiService *TeamApiService
